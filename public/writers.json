@@ -1,9 +1,9 @@
-[
+ [
 
  {
     "id":1,
     "name":"audre lorde",
-    "avater":"audre_lorde",
+    "avatar":"audre_lorde",
     "email":"audrelorde@gmail.com",
     "phone":"1-773-454-3645",
     "bio":"lorem ghe dfiefrdf errijfdnf srujfjre kgkritjg kdgkrgd rkgrjgfv fkgtihgkbf kfghjjgf"
@@ -11,7 +11,7 @@
  {
     "id":2,
     "name":"belle_hooks",
-    "avater":"belle_hooks.png",
+    "avatar":"belle_hooks",
     "email":"audrelorde@gmail.com",
     "phone":"1-773-454-3645",
     "bio":"lorem ghe dfiefrdf errijfdnf srujfjre kgkritjg kdgkrgd rkgrjgfv fkgtihgkbf kfghjjgf"
@@ -19,40 +19,32 @@
  {
     "id":3,
     "name":"du_bois",
-    "avater":"du",
-    "email":"audrelorde@gmail.com",
+    "avatar":"du_bois",
+    "email":"du_bois@gmail.com",
     "phone":"1-773-454-3645",
     "bio":"lorem ghe dfiefrdf errijfdnf srujfjre kgkritjg kdgkrgd rkgrjgfv fkgtihgkbf kfghjjgf"
  },
  {
     "id":4,
-    "name":"audre lorde",
-    "avater":"audre_lorde",
-    "email":"audrelorde@gmail.com",
+    "name":"james_baldwin",
+    "avatar":"james_baldwin",
+    "email":"james_baldwin@gmail.com",
     "phone":"1-773-454-3645",
     "bio":"lorem ghe dfiefrdf errijfdnf srujfjre kgkritjg kdgkrgd rkgrjgfv fkgtihgkbf kfghjjgf"
  },
  {
     "id":5,
-    "name":"audre lorde",
-    "avater":"audre_lorde",
-    "email":"audrelorde@gmail.com",
+    "name":"lanston_hughes",
+    "avatar":"lanston_hughes",
+    "email":"lanston_hughes@gmail.com",
     "phone":"1-773-454-3645",
     "bio":"lorem ghe dfiefrdf errijfdnf srujfjre kgkritjg kdgkrgd rkgrjgfv fkgtihgkbf kfghjjgf"
  },
  {
     "id":6,
-    "name":"audre lorde",
-    "avater":"audre_lorde",
-    "email":"audrelorde@gmail.com",
-    "phone":"1-773-454-3645",
-    "bio":"lorem ghe dfiefrdf errijfdnf srujfjre kgkritjg kdgkrgd rkgrjgfv fkgtihgkbf kfghjjgf"
- },
- {
-    "id":1,
-    "name":"audre lorde",
-    "avater":"audre_lorde",
-    "email":"audrelorde@gmail.com",
+    "name":"maya_angelou",
+    "avatar":"maya_angelou",
+    "email":"maya_angelou@gmail.com",
     "phone":"1-773-454-3645",
     "bio":"lorem ghe dfiefrdf errijfdnf srujfjre kgkritjg kdgkrgd rkgrjgfv fkgtihgkbf kfghjjgf"
  }

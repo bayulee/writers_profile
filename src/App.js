@@ -60,7 +60,7 @@ class App extends Component {
          </div>
        ) : (
          list.map((writer) =>(
-           <profileCard key={writer.id} writer={writer}/>
+           <ProfileCard key={writer.id} writer={writer}/>
        ))
        )}
        </div>
